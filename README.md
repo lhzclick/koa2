@@ -6,4 +6,5 @@ koa-generator脚手架构建的node服务，
 # route文件夹
 route文件夹中的index.js用于构建koa2后台服务，mysqlConfig.js用于操作mysql
 # 启动步骤
-npm start
+npm install
+npm start   
